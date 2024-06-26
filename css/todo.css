@@ -1,0 +1,59 @@
+.heading{
+    color: white;
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+.para{
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin: 5px;
+
+}
+.p1{
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+}
+.p2{
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    margin: 3px;
+}
+.bg{
+    background-image: url("https://ik.imagekit.io/dtf4az3zy/MERN/todolistbg.png_updatedAt=1700761069523?updatedAt=1719319720888");
+    height: 700px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    color: white;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight:600;
+    background-color: orange;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin: 15px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.p3{
+    color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    text-decoration: underline;
+    margin: 5px;
+}
